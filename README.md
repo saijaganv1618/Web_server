@@ -20,4 +20,4 @@ Serving the HTML pages.
 Testing the webserver
 ## program:
 ## OUTPUT:
-## RESULTs:
+## RESULT:
