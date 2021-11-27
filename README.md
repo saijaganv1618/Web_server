@@ -18,6 +18,6 @@ Serving the HTML pages.
 ### Step 5:
 
 Testing the webserver
-## PROGRAM:
+## program:
 ## OUTPUT:
 ## RESULT:
