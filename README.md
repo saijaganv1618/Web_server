@@ -28,9 +28,9 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>jagan</h1>
-<h2>saijaganv1618@gmail.com></h2>
-<h3>21001404</h3>
+<h1>v.ishwariya</h1>
+<h2>ishuvasanth05@gmail.com></h2>
+<h3>21002894</h3>
 </body>
 </html>
 """
@@ -41,13 +41,13 @@ class myhandler(BaseHTTPRequestHandler):
         self.send_header('content-type', 'text/html; charset=utf-8')
         self.end_headers()
         self.wfile.write(content.encode())
-server_address = ('',1628)
+server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](unknown.png)
+![GitHub Logo](ishu.png)
 ## RESULT:
 webserver is created succesfully
