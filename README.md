@@ -28,9 +28,9 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>ishwariya.v</h1>
-<h2>ishuvasanth05@gmail.com></h2>
-<h3>21002894</h3>
+<h1>jagan.a</h1>
+<h2>saijaganv1618@gmail.com@gmail.com></h2>
+<h3>21001404</h3>
 </body>
 </html>
 """
@@ -48,6 +48,6 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](ishu.png)
+![GitHub Logo](jack.png)
 ## RESULT:
 webserver is created succesfully
